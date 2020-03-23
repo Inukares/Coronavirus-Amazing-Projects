@@ -18,7 +18,7 @@ Despite trying my best this list is not exhaustive as literally every minute new
 
 ## :electron: APIs and CLIs
 
-| :star2: | Name & link | Lang | Summary | Interface | By |
+| :star: | Name & link | Lang | Summary | Interface | By |
 | ------ | ----------- | ---- | ------- | --------- | --- |
 | 1378 | [DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) | CN | 2019新型冠状病毒疫情实时爬虫及API | REST | [@BlankerL](https://github.com/BlankerL) |
 | 720 | [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) | EN | 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It&#39;s written in python using the 🍼 Flask framework. Supports multiple sources! | REST | [soroushchehresa](https://github.com/soroushchehresa) |
